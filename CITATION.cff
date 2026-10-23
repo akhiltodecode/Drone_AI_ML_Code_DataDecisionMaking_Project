@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this simulation framework, please cite the associated paper and this software release."
+title: "Data-Driven AI and Machine Learning for Drone-Based Industrial Pipe Inspection"
+type: software
+authors:
+  - family-names: "Keerthi"
+    given-names: "Akhilesh"
+version: 3.1.0
+date-released: 2026-10-23
+license: Apache-2.0
+repository-code: "https://github.com/akhiltodecode/drone-pipe-inspection-decision-intelligence-q1-v3"
+keywords:
+  - drone inspection
+  - industrial pipes
+  - machine learning
+  - decision intelligence
+  - synthetic data
